@@ -4,7 +4,7 @@
 Simple random background generator that allows you to create linear gradient 2-color backgrounds. 
 
 ### :high_brightness: Visuals
-![gradient image] (http://img/gradient_background.png)
+![](img/gradient_background.png)
 
 ## :bulb: Getting Started 
 Follow the instructions bellow to get a copy of the project, whether it's for development or testing purposes. 
