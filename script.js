@@ -1,3 +1,11 @@
+// Load the full build.
+// '_' is considered as full lodash
+var _ = require("lodash");
+
+// This is a test
+var array = [1, 2, 3, 4, 5];
+console.log("answer", _.without(array, 3));
+
 const rgb_colors = 3;
 
 var first_color = document.querySelector(".first-color");

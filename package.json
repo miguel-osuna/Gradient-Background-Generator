@@ -1,0 +1,23 @@
+{
+  "name": "gradient-background-generator",
+  "version": "1.0.0",
+  "description": "Simple random background generator that allows you to create linear gradient 2-color backgrounds.",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-osuna/Gradient-Background-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-osuna/Gradient-Background-Generator/issues"
+  },
+  "homepage": "https://github.com/miguel-osuna/Gradient-Background-Generator#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "lodash": "^4.17.15"
+  }
+}
