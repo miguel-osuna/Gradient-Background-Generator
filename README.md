@@ -19,7 +19,6 @@ git@2.17.1 or higher
 ```
 
 ### :computer: Installation
-EXAMPLE:
 ```
 # Clone this repository
 $ git clone https://miguel-osuna.github.io/Gradient-Background-Generator/
@@ -42,7 +41,6 @@ $ npm run build
 ##  :wrench: Built With 
 List all the technologies and tools used for the project.
 
-EXAMPLE: 
 -   Live-Server - Node Module
 -   Lodash - Node Module
 -   [Node](https://nodejs.org/es/) - Javascript Run-Time Environment
