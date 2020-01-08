@@ -4,7 +4,8 @@
   "description": "Simple random background generator that allows you to create linear gradient 2-color backgrounds.",
   "main": "script.js",
   "scripts": {
-    "build": "browserify script.js > bundle.js && live-server"
+    "build": "browserify script.js > bundle.js",
+    "start": "live-server"
   },
   "repository": {
     "type": "git",
