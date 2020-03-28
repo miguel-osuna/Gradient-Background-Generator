@@ -23,8 +23,11 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Smartphone (please complete the following information):**
- - Browser [e.g. stock browser, safari]
+**Environment (If applicable, please complete the following information):**
+- Device [e.g. Samsung Oddysey]
+- OS [e.g. Windows 10]
+- Browser [e.g. stock browser, chrome, firefox, safari]
+- Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
